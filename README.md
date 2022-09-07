@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋 , soy Carlos Alberto</h1>
 <h3 align="center">Estudiante de Ingenieria informática</h3>
-<
-p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carlosvtorre" alt="carlosvtorre" /></a> </p>
 
 <h3 align="left">Conéctate conmigo: </h3>
 <p align="left">
